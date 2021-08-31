@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas.Code.SnakesAndLadders", "Katas.Code.SnakesAndLadders\Katas.Code.SnakesAndLadders.csproj", "{8F0D4627-AB94-4C51-9198-C2CF134AAAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas.Code.SnakesAndLadders.Console", "Katas.Code.SnakesAndLadders.Console\Katas.Code.SnakesAndLadders.Console.csproj", "{5DF41A89-D2BD-4FCA-9E16-67EFAA26BA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas.Code.SnakesAndLadders.Test", "Katas.Code.SnakesAndLadders.Test\Katas.Code.SnakesAndLadders.Test.csproj", "{AD30A2A8-BBB6-4841-889D-2AC7CBD57A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0D4627-AB94-4C51-9198-C2CF134AAAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0D4627-AB94-4C51-9198-C2CF134AAAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0D4627-AB94-4C51-9198-C2CF134AAAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0D4627-AB94-4C51-9198-C2CF134AAAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF41A89-D2BD-4FCA-9E16-67EFAA26BA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF41A89-D2BD-4FCA-9E16-67EFAA26BA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF41A89-D2BD-4FCA-9E16-67EFAA26BA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF41A89-D2BD-4FCA-9E16-67EFAA26BA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD30A2A8-BBB6-4841-889D-2AC7CBD57A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD30A2A8-BBB6-4841-889D-2AC7CBD57A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD30A2A8-BBB6-4841-889D-2AC7CBD57A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD30A2A8-BBB6-4841-889D-2AC7CBD57A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B9FE09-8928-4CAF-AE7F-74023EBEF58E}
+	EndGlobalSection
+EndGlobal
