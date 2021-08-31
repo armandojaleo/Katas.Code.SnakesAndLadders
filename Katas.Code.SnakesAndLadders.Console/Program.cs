@@ -290,7 +290,7 @@ namespace Katas.Code.SnakesAndLadders.Console
         {
             System.Console.WriteLine("\t#                         #");
             System.Console.WriteLine("\t# ----------------------- #");
-            System.Console.WriteLine("\t#   Thank you for play    #");
+            System.Console.WriteLine("\t#  Thank you for playing  #");
             System.Console.WriteLine("\t###########################");
         }
 
