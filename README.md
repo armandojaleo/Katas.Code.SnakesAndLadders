@@ -2,6 +2,8 @@
 
 Run the console project to start the game.
 
+![Screenshot](Images/screenshot_1.png "Screenshot")
+
 ## Configuration
 
 You can change the options in the appsettings.json inside console project
